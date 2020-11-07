@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205539360922",
+    "firebase_url": "https://analogwapp.firebaseio.com",
+    "project_id": "analogwapp",
+    "storage_bucket": "analogwapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205539360922:android:6c0ce458ff086318571f23",
+        "android_client_info": {
+          "package_name": "ru.pekcherkin.analogwapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205539360922-0tcfk6tvuehq4qfcgoj9etnq37q8iblk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnWtIEf9rYqKCPPEqhmDTAxQSf4WtikY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205539360922-0tcfk6tvuehq4qfcgoj9etnq37q8iblk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
